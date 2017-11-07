@@ -1,21 +1,21 @@
 title: Đại Lý Xe Ôtô | DailyXe
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Cung cấp nhanh về tin tức về xe ôtô, đánh giá xe ôtô, tư vấn mua xe uy tín
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://dailyxe.com.vn/" # the subpath of your site, e.g. /blog
 url: "https://dailyxe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-twitter: # add your Twitter handle
-facebook: # dailyxe
+author: Đại Lý Xe Ôtô
+author-img: https://imgur.com/a/JYopQ
+about-author: Chúng tôi cung cấp thông tin nhanh và mới nhất về thị trường Ôtô tại Việt Nam
+youtube: dailyxe/
+facebook: dailyxe/
+google-plus: 102558229289683929014/
+twitter: dailyxe/
+linkedin: dailyxe/
+pinterest: dailyxe/
+email: lienhe@gianhangvn.com
 github: artemsheludko # add your Github handle
-linkedin: # add your Linkedin handle
-email: # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
