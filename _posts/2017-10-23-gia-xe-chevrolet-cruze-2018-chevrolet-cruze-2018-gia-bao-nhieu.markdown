@@ -3,7 +3,7 @@ layout: post
 title: Giá xe Chevrolet Cruze 2017 - Chevrolet Cruze 2017 giá bao nhiêu?
 date: 2017-11-07 00:00:00 +0300
 description: Giá xe Chevrolet Cruze hay Chevrolet Cruze giá bao nhiêu là thắc mắc của rất nhiều người đang có ý định mua sắm xe thuộc thương hiệu Chevrolet. Mẫu xe Chevrolet Cruze 2017 vừa ra mắt thị trường đã tạo sự chú ý rất lớn của những người đam mê dòng xe Chevrolet trên thị trường ô tô. Đây là mẫu sedan thuộc phân khúc hạng C có khả năng cạnh tranh rất lớn với các đối thủ như Hyundai, Honda, Mazda với giá thành hợp lý
-img: software.jpg # Add image post (optional)
+img: gia-xe-chevrolet-cruze-2018-chevrolet-cruze-2018-gia-bao-nhieu.jpg # Add image post (optional)
 tags: [Chevrolet Cruze, Giá xe Chevrolet Cruze, Chevrolet Cruze giá bao nhiêu, DailyXe] # add tag
 ---
 
