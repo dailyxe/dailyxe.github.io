@@ -19,7 +19,8 @@ Giá xe Chevrolet Cruze được phân phối tại thị trường Việt Nam v
 - Chevrolet Cruze 2018 LTZ 1.8 (hộp số tự động AT 6 cấp): **699 triệu**
 
 Mức giá xe **Chevrolet Cruze 2018** có khả năng cạnh tranh với rất nhiều đối thủ cùng phân khúc như: 
-- Honda City 1.5 TOP (604 triệu), Honda City 1.5 AT (568 triệu)
+- Honda City 1.5 TOP (604 triệu)
+- Honda City 1.5 AT (568 triệu)
 - Honda City 1.5 MT (533 triệu đồng)
 - Ford Fiesta 1.5 Titanium (579 triệu)
 - Ford Elantra 1.6 AT (689 triệu)
