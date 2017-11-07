@@ -1,7 +1,7 @@
 title: Đại Lý Xe Ôtô | DailyXe
 description: > Cung cấp nhanh về tin tức về xe ôtô, đánh giá xe ôtô, tư vấn mua xe uy tín
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dailyxe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
