@@ -1,20 +1,19 @@
-title: Đại Lý Xe Ôtô | DailyXe
+title: DailyXe - Mua Bán Xe Ô tô
 description: "Cung cấp nhanh về tin tức về xe ôtô, đánh giá xe ôtô, tư vấn mua xe uy tín"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dailyxe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Đại Lý Xe Ôtô
+author: DailyXe
 author-img: https://i.imgur.com/8uUpUmE.png
 about-author: Chúng tôi cung cấp thông tin nhanh và mới nhất về thị trường Ôtô tại Việt Nam
 youtube: dailyxe/
 facebook: dailyxe/
-google-plus: 102558229289683929014
 twitter: dailyxe/
 linkedin: dailyxe/
 pinterest: dailyxe/
-email: lienhe@gianhangvn.com
+email: hotro@dailyxe.com.vn
 github: artemsheludko # add your Github handle
 website: https://dailyxe.com.vn/
 
